@@ -1,0 +1,47 @@
+.name1{
+    font-size: 70px;
+    font-family: Arial, Helvetica, sans-serif;
+    color:rgb(226, 139, 181)
+    
+    
+    
+}
+
+
+
+.para1{
+    font-size: 20px;
+    color: beige;
+
+}
+.name2{
+    font-size:40px;
+    color: aquamarine;
+}
+.para2{
+    font-size: 20px;
+    color: beige;
+
+}
+
+#pic1{
+    img {
+        border-radius: 50%;
+        
+      }
+
+
+}
+
+@keyframes rotate
+ {
+    
+}
+
+#pic1:hover {
+    border-radius: 50%;
+    filter: grayscale(100%);
+}    
+
+
+    
